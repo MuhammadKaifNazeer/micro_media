@@ -1,0 +1,9 @@
+@media (min-width: 1000px) {
+  .postcontainer {
+    columns: 2;
+  }
+
+  .post {
+    break-inside: avoid;
+  }
+}
